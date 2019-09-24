@@ -1,0 +1,13 @@
+div#first {
+  display: flex;
+  align-items: center;
+}
+
+div#second {
+  display: flex;
+}
+
+div#second * {
+  margin-top: auto;
+  margin-bottom: auto;
+}
